@@ -1,32 +1,34 @@
 {
-projects:[{
-  dbKey: "101",
-  name: "Fixture Types",
-  projectType: "",
-  projectIdentifier: "",
-  projectCreator: "dbo",
-  dateEffective: "",
-  status: "3",
-  planogramsNum: "1",
-},
-{
-  dbKey: "102",
-  name: "Gravity Feed",
-  projectType: "",
-  projectIdentifier: "",
-  projectCreator: "dbo",
-  dateEffective: "",
-  status: "3",
-  planogramsNum: "1",
-},
-{
-  dbKey: "102",
-  name: "Pegboard Examples and some other really long name here",
-  projectType: "",
-  projectIdentifier: "",
-  projectCreator: "dbo",
-  dateEffective: "",
-  status: "3",
-  planogramsNum: "1",
-}]
+"projects":[
+  {
+    "dbKey": "101",
+    "name": "Fixture Types",
+    "projectType": "",
+    "projectIdentifier": "",
+    "projectCreator": "dbo",
+    "dateEffective": "",
+    "status": "3",
+    "planogramsNum": "1"
+  },
+  {
+    "dbKey": "102",
+    "name": "Gravity Feed",
+    "projectType": "",
+    "projectIdentifier": "",
+    "projectCreator": "dbo",
+    "dateEffective": "",
+    "status": "3",
+    "planogramsNum": "1"
+  },
+  {
+    "dbKey": "102",
+    "name": "Pegboard Examples and some other really long name here",
+    "projectType": "",
+    "projectIdentifier": "",
+    "projectCreator": "dbo",
+    "dateEffective": "",
+    "status": "3",
+    "planogramsNum": "1"
+  }
+]
 }
