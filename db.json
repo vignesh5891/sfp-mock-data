@@ -137,22 +137,42 @@
           "label": "000-SHELF EXTEND",
           "value": "000",
           "children": [
-            { "label": "Celery11", "value": "celery11" },
-            { "label": "Celery12", "value": "celery12" }
+            { "label": "000-1", "value": "000 ITEM ONE" },
+            { "label": "000-2", "value": "000 ITEM TWO" },
+            { "label": "000-3", "value": "000 ITEM THREE" }
           ]
         },
-        { "label": "001-CANNED FRUIT", "value": "001" },
-        { "label": "001-CANNED VEGETABLES", "value": "001" },
-        { "label": "001-CAN BEANS", "value": "001" }
-      ]
-    },
-    {
-      "label": "Tomato",
-      "value": "tomato",
-      "children": [
-        { "label": "Tomato1", "value": "tomato1" },
-        { "label": "Tomato2", "value": "tomato2" }
+        { 
+          "label": "001-CANNED FRUIT", 
+          "value": "001", 
+          "children": [
+            { "label": "000-4", "value": "000 ITEM ONE" },
+            { "label": "000-5", "value": "000 ITEM TWO" },
+            { "label": "000-6", "value": "000 ITEM THREE" }
+          ] 
+          
+        },
+        { 
+          "label": "001-CANNED VEGETABLES", 
+          "value": "001", 
+          "children": [
+            { "label": "000-7", "value": "000 ITEM ONE" },
+            { "label": "000-8", "value": "000 ITEM TWO" },
+            { "label": "000-9", "value": "000 ITEM THREE" }
+          ] 
+          
+        },
+        { 
+          "label": "001-CAN BEANS", 
+          "value": "001", 
+          "children": [
+            { "label": "000-10", "value": "000 ITEM ONE" },
+            { "label": "000-11", "value": "000 ITEM TWO" },
+            { "label": "000-12", "value": "000 ITEM THREE" }
+          ] 
+        }
       ]
     }
+   
   ]
 }
