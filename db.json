@@ -127,5 +127,32 @@
     "status": "3",
     "planogramsNum": "1"
   }
-]
+],
+  "commodities": [
+    {
+      label: "01-GROC-ALL OTHER",
+      value: "01",
+      children: [
+        {
+          label: "000-SHELF EXTEND",
+          value: "000",
+          children: [
+            { label: "Celery11", value: "celery11" },
+            { label: "Celery12", value: "celery12" },
+          ],
+        },
+        { label: "001-CANNED FRUIT", value: "001" },
+        { label: "001-CANNED VEGETABLES", value: "001" },
+        { label: "001-CAN BEANS", value: "001" },
+      ],
+    },
+    {
+      label: "Tomato",
+      value: "tomato",
+      children: [
+        { label: "Tomato1", value: "tomato1" },
+        { label: "Tomato2", value: "tomato2" },
+      ],
+    },
+  ]
 }
