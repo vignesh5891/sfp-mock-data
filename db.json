@@ -167,7 +167,7 @@
           "label": "001-CAN BEANS",
           "value": "001",
           "children": [
-            { "label": "000 ITEM ONE", "value": "000-10" },
+            { "label": "000 ITEM ONE Pegboard Examples and some other really long name here", "value": "000-10" },
             { "label": "000 ITEM TWO", "value": "000-11" },
             { "label": "000 ITEM THREE", "value": "000-12" }
           ]
