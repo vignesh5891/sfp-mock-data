@@ -140,36 +140,39 @@
           "label": "000-SHELF EXTEND",
           "value": "000",
           "children": [
-            { "label": "000 ITEM ONE", "value": "000-1" },
-            { "label": "000 ITEM TWO", "value": "000-2" },
-            { "label": "000 ITEM THREE", "value": "000-3" }
+            { "label": "000-1 ITEM ONE", "value": "000-1" },
+            { "label": "000-2 ITEM TWO", "value": "000-2" },
+            { "label": "000-3 ITEM THREE", "value": "000-3" }
           ]
         },
         {
           "label": "001-CANNED FRUIT",
           "value": "001",
           "children": [
-            { "label": "000 ITEM ONE", "value": "000-4" },
-            { "label": "000 ITEM TWO", "value": "000-5" },
-            { "label": "000 ITEM THREE", "value": "000-6" }
+            { "label": "000-4 ITEM ONE", "value": "000-4" },
+            { "label": "000-5 ITEM TWO", "value": "000-5" },
+            { "label": "000-6 ITEM THREE", "value": "000-6" }
           ]
         },
         {
           "label": "001-CANNED VEGETABLES",
           "value": "001",
           "children": [
-            { "label": "000 ITEM ONE", "value": "000-7" },
-            { "label": "000 ITEM TWO", "value": "000-8" },
-            { "label": "000 ITEM THREE", "value": "000-9" }
+            { "label": "000-7 ITEM ONE", "value": "000-7" },
+            { "label": "000-8 ITEM TWO", "value": "000-8" },
+            { "label": "000-9 ITEM THREE", "value": "000-9" }
           ]
         },
         {
           "label": "001-CAN BEANS",
           "value": "001",
           "children": [
-            { "label": "000 ITEM ONE Pegboard Examples and some other really long name here", "value": "000-10" },
-            { "label": "000 ITEM TWO", "value": "000-11" },
-            { "label": "000 ITEM THREE", "value": "000-12" }
+            {
+              "label": "000-10 ITEM ONE",
+              "value": "000-10"
+            },
+            { "label": "000-11 ITEM TWO", "value": "000-11" },
+            { "label": "000-12 ITEM THREE Pegboard Examples and some other really long name here", "value": "000-12" }
           ]
         }
       ]
