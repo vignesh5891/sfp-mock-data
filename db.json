@@ -155,8 +155,8 @@
           ]
         },
         {
-          "label": "001-CANNED VEGETABLES",
-          "value": "001",
+          "label": "002-CANNED VEGETABLES",
+          "value": "002",
           "children": [
             { "label": "000-7 ITEM ONE", "value": "000-7" },
             { "label": "000-8 ITEM TWO", "value": "000-8" },
@@ -164,8 +164,8 @@
           ]
         },
         {
-          "label": "001-CAN BEANS",
-          "value": "001",
+          "label": "003-CAN BEANS",
+          "value": "003",
           "children": [
             {
               "label": "000-10 ITEM ONE",
