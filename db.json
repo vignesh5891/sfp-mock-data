@@ -1,133 +1,136 @@
 {
-"projects":[
-  {
-    "dbKey": "101",
-    "name": "Fixture Types",
-    "projectType": "",
-    "projectIdentifier": "",
-    "projectCreator": "dbo",
-    "dateEffective": "",
-    "status": "3",
-    "planogramsNum": "1"
-  },
-  {
-    "dbKey": "102",
-    "name": "Gravity Feed",
-    "projectType": "",
-    "projectIdentifier": "",
-    "projectCreator": "dbo",
-    "dateEffective": "",
-    "status": "3",
-    "planogramsNum": "1"
-  },
-  {
-    "dbKey": "103",
-    "name": "Pegboard Examples and some other really long name here",
-    "projectType": "",
-    "projectIdentifier": "",
-    "projectCreator": "dbo",
-    "dateEffective": "",
-    "status": "3",
-    "planogramsNum": "1"
-  },
-  {
-    "dbKey": "104",
-    "name": "Fixture Types",
-    "projectType": "",
-    "projectIdentifier": "",
-    "projectCreator": "dbo",
-    "dateEffective": "",
-    "status": "3",
-    "planogramsNum": "1"
-  },
-  {
-    "dbKey": "105",
-    "name": "Gravity Feed",
-    "projectType": "",
-    "projectIdentifier": "",
-    "projectCreator": "dbo",
-    "dateEffective": "",
-    "status": "3",
-    "planogramsNum": "1"
-  },
-  {
-    "dbKey": "106",
-    "name": "Fixture Types",
-    "projectType": "",
-    "projectIdentifier": "",
-    "projectCreator": "dbo",
-    "dateEffective": "",
-    "status": "3",
-    "planogramsNum": "1"
-  },
-  {
-    "dbKey": "107",
-    "name": "Gravity Feed",
-    "projectType": "",
-    "projectIdentifier": "",
-    "projectCreator": "dbo",
-    "dateEffective": "",
-    "status": "3",
-    "planogramsNum": "1"
-  },{
-    "dbKey": "108",
-    "name": "Fixture Types",
-    "projectType": "",
-    "projectIdentifier": "",
-    "projectCreator": "dbo",
-    "dateEffective": "",
-    "status": "3",
-    "planogramsNum": "1"
-  },
-  {
-    "dbKey": "109",
-    "name": "Gravity Feed",
-    "projectType": "",
-    "projectIdentifier": "",
-    "projectCreator": "dbo",
-    "dateEffective": "",
-    "status": "3",
-    "planogramsNum": "1"
-  },{
-    "dbKey": "110",
-    "name": "Fixture Types",
-    "projectType": "",
-    "projectIdentifier": "",
-    "projectCreator": "dbo",
-    "dateEffective": "",
-    "status": "3",
-    "planogramsNum": "1"
-  },
-  {
-    "dbKey": "112",
-    "name": "Gravity Feed",
-    "projectType": "",
-    "projectIdentifier": "",
-    "projectCreator": "dbo",
-    "dateEffective": "",
-    "status": "3",
-    "planogramsNum": "1"
-  },{
-    "dbKey": "113",
-    "name": "Fixture Types",
-    "projectType": "",
-    "projectIdentifier": "",
-    "projectCreator": "dbo",
-    "dateEffective": "",
-    "status": "3",
-    "planogramsNum": "1"
-  },
-  {
-    "dbKey": "114",
-    "name": "Gravity Feed",
-    "projectType": "",
-    "projectIdentifier": "",
-    "projectCreator": "dbo",
-    "dateEffective": "",
-    "status": "3",
-    "planogramsNum": "1"
-  }
-],
+  "projects": [
+    {
+      "dbKey": "101",
+      "name": "Fixture Types",
+      "projectType": "",
+      "projectIdentifier": "",
+      "projectCreator": "dbo",
+      "dateEffective": "",
+      "status": "3",
+      "planogramsNum": "1"
+    },
+    {
+      "dbKey": "102",
+      "name": "Gravity Feed",
+      "projectType": "",
+      "projectIdentifier": "",
+      "projectCreator": "dbo",
+      "dateEffective": "",
+      "status": "3",
+      "planogramsNum": "1"
+    },
+    {
+      "dbKey": "103",
+      "name": "Pegboard Examples and some other really long name here",
+      "projectType": "",
+      "projectIdentifier": "",
+      "projectCreator": "dbo",
+      "dateEffective": "",
+      "status": "3",
+      "planogramsNum": "1"
+    },
+    {
+      "dbKey": "104",
+      "name": "Fixture Types",
+      "projectType": "",
+      "projectIdentifier": "",
+      "projectCreator": "dbo",
+      "dateEffective": "",
+      "status": "3",
+      "planogramsNum": "1"
+    },
+    {
+      "dbKey": "105",
+      "name": "Gravity Feed",
+      "projectType": "",
+      "projectIdentifier": "",
+      "projectCreator": "dbo",
+      "dateEffective": "",
+      "status": "3",
+      "planogramsNum": "1"
+    },
+    {
+      "dbKey": "106",
+      "name": "Fixture Types",
+      "projectType": "",
+      "projectIdentifier": "",
+      "projectCreator": "dbo",
+      "dateEffective": "",
+      "status": "3",
+      "planogramsNum": "1"
+    },
+    {
+      "dbKey": "107",
+      "name": "Gravity Feed",
+      "projectType": "",
+      "projectIdentifier": "",
+      "projectCreator": "dbo",
+      "dateEffective": "",
+      "status": "3",
+      "planogramsNum": "1"
+    },
+    {
+      "dbKey": "108",
+      "name": "Fixture Types",
+      "projectType": "",
+      "projectIdentifier": "",
+      "projectCreator": "dbo",
+      "dateEffective": "",
+      "status": "3",
+      "planogramsNum": "1"
+    },
+    {
+      "dbKey": "109",
+      "name": "Gravity Feed",
+      "projectType": "",
+      "projectIdentifier": "",
+      "projectCreator": "dbo",
+      "dateEffective": "",
+      "status": "3",
+      "planogramsNum": "1"
+    },
+    {
+      "dbKey": "110",
+      "name": "Fixture Types",
+      "projectType": "",
+      "projectIdentifier": "",
+      "projectCreator": "dbo",
+      "dateEffective": "",
+      "status": "3",
+      "planogramsNum": "1"
+    },
+    {
+      "dbKey": "112",
+      "name": "Gravity Feed",
+      "projectType": "",
+      "projectIdentifier": "",
+      "projectCreator": "dbo",
+      "dateEffective": "",
+      "status": "3",
+      "planogramsNum": "1"
+    },
+    {
+      "dbKey": "113",
+      "name": "Fixture Types",
+      "projectType": "",
+      "projectIdentifier": "",
+      "projectCreator": "dbo",
+      "dateEffective": "",
+      "status": "3",
+      "planogramsNum": "1"
+    },
+    {
+      "dbKey": "114",
+      "name": "Gravity Feed",
+      "projectType": "",
+      "projectIdentifier": "",
+      "projectCreator": "dbo",
+      "dateEffective": "",
+      "status": "3",
+      "planogramsNum": "1"
+    }
+  ],
   "commodities": [
     {
       "label": "01-GROC-ALL OTHER",
@@ -137,42 +140,39 @@
           "label": "000-SHELF EXTEND",
           "value": "000",
           "children": [
-            { "label": "000-1", "value": "000 ITEM ONE" },
-            { "label": "000-2", "value": "000 ITEM TWO" },
-            { "label": "000-3", "value": "000 ITEM THREE" }
+            { "label": "000 ITEM ONE", "value": "000-1" },
+            { "label": "000 ITEM TWO", "value": "000-2" },
+            { "label": "000 ITEM THREE", "value": "000-3" }
           ]
         },
-        { 
-          "label": "001-CANNED FRUIT", 
-          "value": "001", 
+        {
+          "label": "001-CANNED FRUIT",
+          "value": "001",
           "children": [
-            { "label": "000-4", "value": "000 ITEM ONE" },
-            { "label": "000-5", "value": "000 ITEM TWO" },
-            { "label": "000-6", "value": "000 ITEM THREE" }
-          ] 
-          
+            { "label": "000 ITEM ONE", "value": "000-4" },
+            { "label": "000 ITEM TWO", "value": "000-5" },
+            { "label": "000 ITEM THREE", "value": "000-6" }
+          ]
         },
-        { 
-          "label": "001-CANNED VEGETABLES", 
-          "value": "001", 
+        {
+          "label": "001-CANNED VEGETABLES",
+          "value": "001",
           "children": [
-            { "label": "000-7", "value": "000 ITEM ONE" },
-            { "label": "000-8", "value": "000 ITEM TWO" },
-            { "label": "000-9", "value": "000 ITEM THREE" }
-          ] 
-          
+            { "label": "000 ITEM ONE", "value": "000-7" },
+            { "label": "000 ITEM TWO", "value": "000-8" },
+            { "label": "000 ITEM THREE", "value": "000-9" }
+          ]
         },
-        { 
-          "label": "001-CAN BEANS", 
-          "value": "001", 
+        {
+          "label": "001-CAN BEANS",
+          "value": "001",
           "children": [
-            { "label": "000-10", "value": "000 ITEM ONE" },
-            { "label": "000-11", "value": "000 ITEM TWO" },
-            { "label": "000-12", "value": "000 ITEM THREE" }
-          ] 
+            { "label": "000 ITEM ONE", "value": "000-10" },
+            { "label": "000 ITEM TWO", "value": "000-11" },
+            { "label": "000 ITEM THREE", "value": "000-12" }
+          ]
         }
       ]
     }
-   
   ]
 }
